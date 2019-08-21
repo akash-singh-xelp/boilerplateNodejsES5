@@ -1,0 +1,9 @@
+{
+  "name": "boilerplateNodejsES5",
+  "version": "1.0.0",
+  "description": "Contains the basic setup for node in ES15",
+  "main": "index.js",
+  "repository": "https://github.com/akash-singh-xelp/boilerplateNodejsES5.git",
+  "author": "akash-singh-xelp <akash.kumar@xelpmoc.in>",
+  "license": "MIT"
+}
